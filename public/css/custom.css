@@ -1,0 +1,13 @@
+html,
+body,
+#wrapper,
+#content-wrapper {
+    width: 100% !important;
+}
+
+#wrapper {
+    display: flex;
+}
+
+/* Debugging only: optional, boleh dihapus */
+/* #content-wrapper { background-color: lightyellow; } */
